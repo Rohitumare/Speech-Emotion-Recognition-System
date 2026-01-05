@@ -66,17 +66,17 @@ python train_model.py
 streamlit run app.py
 
 ## Technologies Used
-Python 3.10
-TensorFlow / Keras
-Librosa
-NumPy
-Pandas
-Streamlit
-Scikit-learn
+- Python 3.10
+- TensorFlow / Keras
+- Librosa
+- NumPy
+- Pandas
+- Streamlit
+- Scikit-learn
 
 ## Applications
-Call center emotion analytics
-Mental health monitoring tools
-Human–computer interaction systems
-Smart assistants and voice AI
-Emotion-aware gaming and entertainment
+- Call center emotion analytics
+- Mental health monitoring tools
+- Human–computer interaction systems
+- Smart assistants and voice AI
+- Emotion-aware gaming and entertainment
