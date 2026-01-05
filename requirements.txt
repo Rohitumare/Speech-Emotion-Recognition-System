@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+librosa
+soundfile
+tensorflow
+streamlit
+streamlit-webrtc
+webrtcvad-wheels
+h5py
+joblib
+python-dotenv
+av
