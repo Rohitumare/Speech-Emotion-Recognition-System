@@ -1,6 +1,6 @@
 # Speech-Emotion-Recognition-System
 
-## Overview: 
+Overview: 
 This project implements an end-to-end Speech Emotion Recognition (SER) system using deep learning to classify human emotions from speech audio. The system processes raw audio input, extracts meaningful features, predicts emotions using a trained neural network, and provides real-time inference through a Streamlit web application.
 The project demonstrates the complete machine learning lifecycle — data preprocessing, model training, inference, and deployment-ready UI.
 
@@ -10,14 +10,7 @@ The project demonstrates the complete machine learning lifecycle — data prepro
 - Provide a real-time, user-friendly web interface.
 
 ## Emotions Classified:
-Angry
-Calm
-Disgust
-Fearful
-Happy
-Neutral
-Sad
-Surprised
+Angry, Calm, Disgust, Fearful, Happy, Neutral, Sad, Surprised
 
 ## Dataset:
 RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)
